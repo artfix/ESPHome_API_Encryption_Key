@@ -9,9 +9,10 @@ A lightweight static HTML page that generates a 32‑byte base64 encryption key 
 
 ## Screenshot
 
+[Generate API Key](ESPHome_API_EncryptionKey_page.html)
+
 ![App screenshot](Screenshot1.png)
 
-[Generate API Key](ESPHome_API_EncryptionKey_page.html)
 
 
 ## Usage
