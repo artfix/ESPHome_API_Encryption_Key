@@ -7,6 +7,13 @@ A lightweight static HTML page that generates a 32‑byte base64 encryption key 
 - **Secure random key** – uses the Web Crypto API.
 - **Copy / regenerate** – buttons to copy the key to the clipboard or generate a fresh one.
 
+## Screenshot
+
+![App screenshot](Screenshot1.png)
+
+[Generate API Key](ESPHome_API_EncryptionKey_page.html)
+
+
 ## Usage
 1. Open `ESPHome_API_EncryptionKey_page.html` in a modern browser.
 2. Click **Copy** to copy the key.
